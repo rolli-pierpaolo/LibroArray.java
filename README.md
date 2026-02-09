@@ -1,2 +1,5 @@
-# LibroArray.java
-Mini esercizio di array con scanner e incapsulamento
+Esercizio Java base:
+- array di oggetti
+- input con Scanner
+- incapsulamento
+- costruttori
